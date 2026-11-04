@@ -25,14 +25,3 @@ This project aims to develop a car parking detection system using Python, OpenCV
 2. **Detection**: Identifies and counts contours specific to parked cars within predefined parking spots.
 3. **Real-Time Updates**: Provides real-time updates on parking space availability based on the detected contours.
 
-## Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhigna-narra-05873b231/" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:narraabhigna@gmail.com" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
